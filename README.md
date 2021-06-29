@@ -5,7 +5,7 @@ This tutorial teaches you some of the basic concepts in [Vaadin Framework](https
 a fast read for learning how to get started - not an example on how application should be
 designed. Please note this example uses and requires Java 8 to work.
 
-This tutorial used by Jenkien to setup the pipeline.
+This tutorial used by Jenkien to setup the pipeline. Jenkien will use maven plugin to perform jobs.
 
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
